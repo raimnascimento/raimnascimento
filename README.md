@@ -1,4 +1,4 @@
-# 👋 Olá, Mundo! Eu sou a </Raissa>!
+# 👋 Olá, Mundo! Eu sou a [Raissa]!
 
 ✨ Uma desenvolvedora em ascensão, apaixonada por transformar ideias em código!
 
