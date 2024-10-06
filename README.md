@@ -16,5 +16,5 @@
 
 - ## 📝 Vamos nos conectar?
 
-- 💬 [LinkedIn]([link-para-seu-linkedin](https://www.linkedin.com/in/ra-nascimento/))
-- 📧 [Email](raissa.mnascimento26@gmail.com)
+- 💬 [LinkedIn](https://www.linkedin.com/in/ra-nascimento/)
+- 📧 [Email](mailto:raissa.mnascimento26@gmail.com)
