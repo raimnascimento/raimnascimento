@@ -2,15 +2,17 @@
 
 ###
 
-<p align="left">Minha essência é um misto de delicadeza e força, sou apaixonada pela vida e seus detalhes. A arte sempre teve um espaço especial na minha vida. Posso passar horas ouvindo música e deixando a mente viajar para lugares que nem existem, os livros me fazem viver outras vidas e a dança me conecta comigo mesma. Sempre encontro uma forma de me expressar e sentir o mundo ao meu redor (inclusive no código). Sou sonhadora, mas determinada. Gosto de olhar para o horizonte e imaginar todas as possibilidades que a vida tem a oferecer – e então, ir atrás delas.<br><br>🎓 Formada em Análise e Desenvolvimento de Sistemas.<br>🎓 Cursando Inteligência Artificial em Sistemas da Informação na São Paulo Tech School.<br><br>🚀 Codando do front ao back: Crescendo no desenvolvimento!<br>Comecei no front-end, criando interfaces com HTML, CSS e JavaScript que refletem minha criatividade. Agora, estou ampliando meus horizontes no back-end, estudando Java para desenvolver sistemas mais completos e me tornar uma desenvolvedora completa e versátil.<br><br>💡 Transformando aprendizado em prática! Meu objetivo é desenvolver projetos cada vez mais úteis e funcionais, aplicáveis ao mercado e focando em soluções que agreguem valor aos clientes.</p>
+<p align="left">Atualmente, estou aprofundando meus conhecimentos em Java, Python, SQL, AWS e desenvolvimento de aplicações, buscando transformar o aprendizado acadêmico em projetos práticos e soluções que façam sentido para o mercado.</p>
+<p align="left">🎓 Formada em Análise e Desenvolvimento de Sistemas.<br>🎓 Cursando Inteligência Artificial em Sistemas da Informação na São Paulo Tech School.</p>
+<p align="left"><b>Codando do front ao back:</b> Crescendo no desenvolvimento!<br>Comecei no front-end, criando interfaces com HTML, CSS e JavaScript. Agora, estou ampliando meus horizontes no back-end, estudando Java para desenvolver sistemas mais completos e me tornar uma desenvolvedora completa e versátil.</p>
 
 ###
 
-<h2 align="center">Objetivos e Metas</h2>
+<h2 align="center">Objetivos e metas</h2>
 
 ###
 
-<p align="left">✅ Aprofundar meu conhecimento em back-end, dominar Java e suas principais tecnologias e frameworks.<br>✅ Aprimorar minhas habilidades em arquitetura de software, aprendendo boas práticas para construção de sistemas escaláveis e eficientes.<br>✅ Colaborar em projetos open source ou freelas, para ganhar experiência prática e fortalecer meu portfólio.</p>
+<p align="left">- Aprofundar meu conhecimento em back-end, dominar Java e suas principais tecnologias e frameworks.<br>- Aprimorar minhas habilidades em arquitetura de software, aprendendo boas práticas para construção de sistemas.<br>- Colaborar em projetos open source, para ganhar experiência prática e fortalecer meu portfólio.</p>
 
 ###
 
@@ -19,25 +21,33 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="NodeJS logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="Linux logo"/>     
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo"  />
+  <img width="12" />
+  
 </div>
 
 ###
